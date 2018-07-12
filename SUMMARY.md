@@ -25,3 +25,18 @@
 
 ## 高级篇
 
+* [任务列表](task-list.md)
+* [链接](link.md)
+* [图片](image.md)
+* [表格](table.md)
+* [图表](chart.md)
+* [Front Matter](front-matter.md)
+* [幻灯片及演示播放](slides-and-presentation.md)
+* [快速打开和命令面板](quick-open-and-command-palette.md)
+* [多标签页及多窗口](multiple-tabs-and-windows.md)
+* [应用性能提升](performance.md)
+* [高级格式](advance-formatting.md)
+* [Markdown 语法检查](syntax-check.md)
+
+## 黑客篇
+
