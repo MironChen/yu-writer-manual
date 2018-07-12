@@ -40,3 +40,11 @@
 
 ## 黑客篇
 
+* [配置](hacker/pei-zhi/README.md)
+  * [配置应用程序](hacker/pei-zhi/application-configuration.md)
+  * [配置文档库](hacker/pei-zhi/library-configuration.md)
+  * [配置文件夹](hacker/pei-zhi/folder-configuration.md)
+* [自定义智能文件夹](hacker/smart-folder.md)
+* [便携式运行模式](hacker/portable-mode.md)
+* [自定义](hacker/custom.md)
+
